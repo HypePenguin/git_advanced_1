@@ -20,11 +20,11 @@ Open-Source Software Practice 3
  Returns:
  The sum of the squares of all even numbers in the list.
  """
+ # TODO: Implement sum_of_squares_of_even
     sum = 0
     for element in even_int_list :
         sum = sum + element**2
     return sum
- # TODO: Implement sum_of_squares_of_even
  pass
 # Main function
 def main():
